@@ -1,0 +1,31 @@
+---
+title: "Kate Brown"
+image: "Kate Brown.jpg"
+links:
+  - label: LinkedIn
+    url: "www.linkedin.com/in/kate-brown-ab5b15207"
+  - label: GitHub
+    url: "https://github.com/kbrow275"
+  - label: Email
+    url: "kbrow275@jh.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Kate Brown is a masters student studying Biostatistics at Johns Hopkins Bloomberg School of Public Health.
+
+## Education
+
+**Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
+
+ScM in Biostatistics | August 2024 - present
+
+**Lehigh University** | Bethlehem, PA
+
+B.S. in Population Health | August 2020 - May 2024
+
+## Publications
+
+McAndrew T, Gibson GC, Braun D, Srivastava A, **Brown K**. Chimeric forecasting: An experiment to leverage human judgment to improve forecasts of infectious disease using simulated surveillance data. Epidemics. 2024;47:100756. https://www.sciencedirect.com/science/article/pii/S1755436524000173. doi: 10.1016/j.epidem.2024.100756.
