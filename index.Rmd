@@ -1,6 +1,6 @@
 ---
 title: "Kate Brown"
-image: "Kate Brown.jpg"
+image: "KateBrown.jpg"
 links:
   - label: LinkedIn
     url: "www.linkedin.com/in/kate-brown-ab5b15207"
